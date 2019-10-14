@@ -20,7 +20,7 @@ Async functions 使用 `async/await` 语法定义函数，如：
 ```js
 async function fn() {
   const value = await getFromApi();
-  doSomethimgWithValue();
+  doSomethingWithValue();
 }
 ```
 
